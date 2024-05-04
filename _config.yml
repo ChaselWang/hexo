@@ -100,14 +100,13 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+# deploy:
+#   type: ''
 
 deploy:
   - type: git
     repository:
       github: https://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@github.com/ChaselWang/ChaselWang.github.io.git,_config.yml
-      ...
 
 
 
