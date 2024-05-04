@@ -108,6 +108,10 @@ deploy:
     repository:
       github: https://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@github.com/ChaselWang/ChaselWang.github.io.git,_config.yml
 
+deploy:
+  type: git
+  repo: git@github.com/ChaselWang/ChaselWang.github.io.git
+  branch: gh-pages
 
 
 enhancer:
