@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "host有奇效.md",
+                "file": "分类/100财经管理/资源网站.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#200管理",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "6e37e3054f062d8d",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "host有奇效.md",
+            "file": "分类/100财经管理/资源网站.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "host有奇效.md",
+            "file": "分类/100财经管理/资源网站.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "host有奇效.md"
+            "file": "分类/100财经管理/资源网站.md"
           }
         }
       }
@@ -146,11 +146,13 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
-    "分类/300编程/Termux 使用.md",
-    "host有奇效.md",
-    "分类/300编程/个人网站开发计划.md",
-    "hello-world.md",
+    "标签/资源网站.md",
+    "分类/100财经管理/资源网站.md",
     "关于/个人简历.md",
+    "hello-world.md",
+    "host有奇效.md",
+    "分类/300编程/Termux 使用.md",
+    "分类/300编程/个人网站开发计划.md",
     "归档/月档案/19-25月档案.md",
     "归档/随笔/2403随笔.md",
     "分类/000上岸笔记/010考编笔记/013公基/党史.md",
