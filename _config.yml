@@ -127,7 +127,7 @@ enhancer:
 
 
 # scripts:
-#   generateTagsPlugin: scripts/generateTagsPlugin.js
+#   auto-tag: scripts/auto-tag.js
 
 
 # hexo-auto-tag
