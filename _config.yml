@@ -117,6 +117,8 @@ theme: next
 enhancer:
   enable: true
   removeFrontMatter: true
+  keywords: HTML, JavaScript, Hexo,日志,马克思,flask,django,随笔,努力
+  tags: Java, Golang, React, Vue,日志,马克思主义,flask,django,随笔,考编
 
 
 # tag_generator:
@@ -126,3 +128,19 @@ enhancer:
 
 # scripts:
 #   generateTagsPlugin: scripts/generateTagsPlugin.js
+
+
+# hexo-auto-tag
+# auto_tag:
+#   enable: true
+#   apiKey: sk-6WbtF8Tuom4zivMlpVXsrD8s8lkRdkEXtmvMeZbKhsAUe2ss
+#   threshold: 0.23 # range: 0-1, 0.23 has been tested to be a good value. Lower values tend to result in fewer tags being assigned to a post.
+#   tags:
+#     - tag1
+#     - tag2
+#     - tag3
+
+# sk-6WbtF8Tuom4zivMlpVXsrD8s8lkRdkEXtmvMeZbKhsAUe2ss
+
+
+
