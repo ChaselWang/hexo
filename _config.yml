@@ -2,6 +2,9 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+
+
+
 # Site
 title: Hexo
 subtitle: ''
@@ -117,9 +120,29 @@ theme: next
 enhancer:
   enable: true
   removeFrontMatter: true
-  keywords: HTML, JavaScript, Hexo,日志,马克思,flask,django,随笔,努力
-  tags: Java, Golang, React, Vue,日志,马克思主义,flask,django,随笔,考编
-
+  # keywords: HTML, JavaScript, Hexo,日志,马克思,flask,django,随笔,努力
+  # tags: Java, Golang, React, Vue,日志,马克思主义,flask,django,随笔,考编
+# keywords:
+#   -HTML
+#   -JavaScript
+#   -Hexo
+#   -日志
+#   -马克思
+#   -flask
+#   -django
+#   -随笔
+#   -努力
+# tags:
+#   -Java,
+#   -Golang,
+#   -React,
+#   -Vue
+#   -日志
+#   -马克思主义
+#   -flask
+#   -django
+#   -随笔
+#   -考编
 
 # tag_generator:
 #   per_page: 10
@@ -130,7 +153,7 @@ enhancer:
 #   auto-tag: scripts/auto-tag.js
 
 
-# hexo-auto-tag
+## hexo-auto-tag
 # auto_tag:
 #   enable: true
 #   apiKey: sk-6WbtF8Tuom4zivMlpVXsrD8s8lkRdkEXtmvMeZbKhsAUe2ss
