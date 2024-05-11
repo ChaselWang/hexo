@@ -166,4 +166,10 @@ enhancer:
 # sk-6WbtF8Tuom4zivMlpVXsrD8s8lkRdkEXtmvMeZbKhsAUe2ss
 
 
-
+# Hexo 站点配置文件 _config.yml
+# 在这个文件中定义一个过滤器
+filter:
+  sort_by_updated:
+    - using: date
+      order: DESC
+      by: updated
