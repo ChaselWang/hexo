@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/000上岸笔记/010考编笔记/013公基/经济.md",
+                "file": "归档/随笔/死亡方式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/经济.md",
+            "file": "归档/随笔/死亡方式.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/经济.md",
+            "file": "归档/随笔/死亡方式.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/经济.md"
+            "file": "归档/随笔/死亡方式.md"
           }
         }
       }
@@ -131,17 +131,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "57e9f47c7891324f",
+  "active": "9d76b1970b2145fe",
   "lastOpenFiles": [
-    "B.md",
+    "归档/随笔/关于安卓苹果开源和闭源的思考.md",
+    "归档/随笔/死亡方式.md",
+    "归档/随笔/2403随笔.md",
+    "归档/随笔/2404随笔.md",
+    "归档/随笔/2405随笔.md",
+    "归档/随笔/CMS的选择.md",
     "分类/000上岸笔记/010考编笔记/013公基/经济.md",
+    "未命名",
+    "B.md",
     "分类/000上岸笔记/010考编笔记/013公基/法律.md",
     "分类/000上岸笔记/010考编笔记/013公基/党史.md",
-    "归档/随笔/2405随笔.md",
     "分类/000上岸笔记/040英语笔记/英语二.md",
     "分类/300编程/个人网站开发计划.md",
     "hello-world.md",
-    "归档/随笔/2404随笔.md",
     "分类/300编程/hexo博客更新日志.md",
     "分类/100财经管理/资源网站.md",
     "分类/300编程/Termux 使用.md",
@@ -149,7 +154,6 @@
     "标签/资源网站.md",
     "关于/个人简历.md",
     "host有奇效.md",
-    "归档/月档案/19-25月档案.md",
-    "归档/随笔/2403随笔.md"
+    "归档/月档案/19-25月档案.md"
   ]
 }
