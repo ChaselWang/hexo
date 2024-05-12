@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/300编程/hexo博客更新日志.md",
+                "file": "分类/300编程/个人网站开发计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分类/300编程/hexo博客更新日志.md",
+                "file": "分类/300编程/个人网站开发计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "分类/300编程/hexo博客更新日志.md",
+                "file": "分类/300编程/个人网站开发计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分类/300编程/hexo博客更新日志.md"
+                "file": "分类/300编程/个人网站开发计划.md"
               }
             }
           }
@@ -147,5 +147,7 @@
     }
   },
   "active": "705ba5e81603cd30",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "分类/300编程/hexo博客更新日志.md"
+  ]
 }
