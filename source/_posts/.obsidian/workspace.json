@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81d783b21e7e5b04",
+        "id": "6bd4ac8d4fa08b16",
         "type": "tabs",
         "children": [
           {
-            "id": "705ba5e81603cd30",
+            "id": "f5ed3bee6db7cfae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,9 +36,11 @@
             "id": "2e2fb3e256339897",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "分类/100管理/极简管理.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -64,12 +66,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "fe059c3a60a2f482",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "800214d7eceb76fd",
@@ -129,12 +142,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "705ba5e81603cd30",
+  "active": "f5ed3bee6db7cfae",
   "lastOpenFiles": [
     "分类/100管理/资源网站.md",
-    "归档/日志/23上日志.md",
     "分类/100管理/极简管理.md",
+    "分类/300编程/hexo博客更新日志.md",
     "分类/300编程/个人网站开发计划.md",
-    "分类/300编程/hexo博客更新日志.md"
+    "归档/日志/23上日志.md"
   ]
 }
