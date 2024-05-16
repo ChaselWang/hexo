@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
+                "file": "关于/个人简历.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
+            "file": "关于/个人简历.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
+            "file": "关于/个人简历.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md"
+            "file": "关于/个人简历.md"
           }
         }
       }
@@ -133,8 +133,8 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
-    "分类/100管理/极简管理.md",
     "分类/000上岸笔记/010考编笔记/013公基/习思.md",
+    "分类/100管理/极简管理.md",
     "归档/随笔/新电脑装机必备.md",
     "关于/个人简历.md",
     "分类/100管理/资源网站.md",
