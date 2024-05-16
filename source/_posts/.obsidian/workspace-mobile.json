@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/100管理/极简管理.md",
+                "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分类/100管理/极简管理.md",
+            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分类/100管理/极简管理.md",
+            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分类/100管理/极简管理.md"
+            "file": "分类/000上岸笔记/010考编笔记/013公基/习思.md"
           }
         }
       }
@@ -133,8 +133,9 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
-    "归档/随笔/新电脑装机必备.md",
     "分类/100管理/极简管理.md",
+    "分类/000上岸笔记/010考编笔记/013公基/习思.md",
+    "归档/随笔/新电脑装机必备.md",
     "关于/个人简历.md",
     "分类/100管理/资源网站.md",
     "分类/100管理/时间管理.md",
@@ -158,7 +159,6 @@
     "B.md",
     "分类/000上岸笔记/040英语笔记/英语二.md",
     "hello-world.md",
-    "分类/300编程/hexo博客更新日志.md",
-    "分类/100财经管理/资源网站.md"
+    "分类/300编程/hexo博客更新日志.md"
   ]
 }
