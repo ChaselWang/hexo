@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/随笔/2405随笔.md",
+                "file": "关于/个人简历.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "归档/随笔/2405随笔.md",
+            "file": "关于/个人简历.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "归档/随笔/2405随笔.md",
+            "file": "关于/个人简历.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "归档/随笔/2405随笔.md"
+            "file": "关于/个人简历.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
+    "归档/随笔/2405随笔.md",
     "关于/个人简历.md",
     "分类/400心理/心理学.md",
     "分类/200图书/220读书.md",
@@ -159,7 +160,6 @@
     "分类/000上岸笔记/010考编笔记/013公基/经济.md",
     "分类/000上岸笔记/010考编笔记/013公基/公文.md",
     "分类/000上岸笔记/010考编笔记/013公基/党史.md",
-    "分类/000上岸笔记/010考编笔记/013公基/科技.md",
     "未命名"
   ]
 }
