@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "归档/随笔/2405随笔.md",
-                "mode": "source",
-                "source": false
+                "file": "分类/100管理/极简管理.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "6e37e3054f062d8d",
@@ -85,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "归档/随笔/2405随笔.md",
+            "file": "分类/100管理/极简管理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "归档/随笔/2405随笔.md",
+            "file": "分类/100管理/极简管理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "归档/随笔/2405随笔.md"
+            "file": "分类/100管理/极简管理.md"
           }
         }
       }
@@ -133,9 +132,12 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
+    "Pasted image 20240522231053.png",
     "分类/100管理/极简管理.md",
-    "关于/个人简历.md",
+    "Pasted image 20240522230905.png",
+    "![[]].md",
     "归档/随笔/2405随笔.md",
+    "关于/个人简历.md",
     "分类/400心理/心理学.md",
     "分类/200图书/220读书.md",
     "分类/400心理",
@@ -158,8 +160,6 @@
     "分类/100管理/资源网站.md",
     "分类/100管理/时间管理.md",
     "分类/000上岸笔记/010考编笔记/013公基/经济.md",
-    "分类/000上岸笔记/010考编笔记/013公基/公文.md",
-    "分类/000上岸笔记/010考编笔记/013公基/党史.md",
     "未命名"
   ]
 }
