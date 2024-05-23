@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/200图书/210人迹.md",
-                "mode": "source",
+                "file": "分类/100管理/极简管理.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分类/200图书/210人迹.md",
+            "file": "分类/100管理/极简管理.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分类/200图书/210人迹.md",
+            "file": "分类/100管理/极简管理.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分类/200图书/210人迹.md"
+            "file": "分类/100管理/极简管理.md"
           }
         }
       }
@@ -133,6 +133,7 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
+    "分类/200图书/210人迹.md",
     "分类/100管理/极简管理.md",
     "Pasted image 20240522231053.png",
     "Pasted image 20240522230905.png",
@@ -142,7 +143,6 @@
     "分类/400心理/心理学.md",
     "分类/200图书/220读书.md",
     "分类/400心理",
-    "分类/200图书/210人迹.md",
     "归档/日志/22下日志.md",
     "归档/月档案/19-25月档案.md",
     "分类/000上岸笔记/040英语笔记/英一.md",
