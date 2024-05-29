@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于/个人简历.md",
+                "file": "分类/000上岸笔记/030考证笔记/教师证.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "关于/个人简历.md",
+                "file": "分类/000上岸笔记/030考证笔记/教师证.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "关于/个人简历.md",
+                "file": "分类/000上岸笔记/030考证笔记/教师证.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关于/个人简历.md"
+                "file": "分类/000上岸笔记/030考证笔记/教师证.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   },
   "active": "f5ed3bee6db7cfae",
   "lastOpenFiles": [
+    "关于/个人简历.md",
     "分类/100管理/极简管理.md",
     "分类/100管理/资源网站.md",
     "分类/300编程/hexo博客更新日志.md",
