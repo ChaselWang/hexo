@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/100管理/极简算术人生.md",
+                "file": "归档/随笔/数码产品.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "分类/100管理/极简算术人生.md",
+            "file": "归档/随笔/数码产品.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "分类/100管理/极简算术人生.md",
+            "file": "归档/随笔/数码产品.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "分类/100管理/极简算术人生.md"
+            "file": "归档/随笔/数码产品.md"
           }
         }
       }
@@ -133,9 +133,10 @@
   },
   "active": "57e9f47c7891324f",
   "lastOpenFiles": [
-    "分类/100管理/极简管理.md",
-    "分类/100管理/极简算术人生.md",
     "归档/随笔/2406随笔.md",
+    "归档/随笔/数码产品.md",
+    "分类/100管理/极简算术人生.md",
+    "分类/100管理/极简管理.md",
     "分类/200图书/壹.md",
     "归档/随笔/2405随笔.md",
     "分类/000上岸笔记/010考编笔记/013公基/马哲.md",
@@ -161,7 +162,6 @@
     "标签/自媒体标签.md",
     "分类/000上岸笔记/010考编笔记/013公基/习思.md",
     "归档/随笔/新电脑装机必备.md",
-    "分类/100管理/资源网站.md",
     "未命名"
   ]
 }
